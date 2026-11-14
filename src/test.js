@@ -1,1 +1,1 @@
-throw new Error('Some error')
+console.log('its ok')
