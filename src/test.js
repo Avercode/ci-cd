@@ -1,1 +1,1 @@
-console.log('test pass')
+throw new Error('Some error')
